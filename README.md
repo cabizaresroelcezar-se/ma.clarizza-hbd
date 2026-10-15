@@ -23,7 +23,7 @@ npm run preview
 ## Deployment (GitHub Pages)
 
 - This project is published to the `gh-pages` branch and served at the URL shown above.
-- The site is built with Astro; the `astro.config.mjs` `base` is set to `/ma.clarizza-28/` to match the Pages path.
+- The site is built with Astro; the `astro.config.mjs` `base` is set to `/ma.clarizza-hbd/` to match the Pages path.
 - The deployment flow used in this repository places the `dist/` output on the `gh-pages` branch and includes a `.nojekyll` file so `_astro` assets are served correctly.
 
 Automated deployment is also provided via GitHub Actions (`.github/workflows/gh-pages.yml`) which runs the build and publishes `dist` on pushes to `main`.
@@ -36,7 +36,7 @@ Automated deployment is also provided via GitHub Actions (`.github/workflows/gh-
 
 ## Repo rename
 
-The repository was renamed for GitHub Pages hosting. The canonical repo name used for deployment is `ma.clarizza-28`.
+The repository was renamed for GitHub Pages hosting. The canonical repo name used for deployment is `ma.clarizza-hbd`.
 
 ---
 If you want the original Astro starter README, see the project template at https://astro.build
