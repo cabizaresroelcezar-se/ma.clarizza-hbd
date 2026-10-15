@@ -2,7 +2,7 @@
 
 Personal site for Clarizza — a small Astro + Tailwind site celebrating Ma. Clarizza's 28th birthday.
 
-**Live demo:** https://cabizaresroelcezar-se.github.io/ma.clarizza-28
+**Live demo:** https://cabizaresroelcezar-se.github.io/ma.clarizza-hbd
 
 ## Development
 
